@@ -1,0 +1,14 @@
+h1{
+  color: darkmagenta;
+  text-align: center;
+}
+
+p{
+  color: green;
+  font-size: 43px;
+  text-align: justify;
+}
+
+div{
+  background-color: cyan;
+}
